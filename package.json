@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@nestjs/config": "^3.3.0",
+    "@nestjs/platform-express": "^10.4.15",
+    "@nestjs/swagger": "^8.1.0",
+    "@nestjs/testing": "^10.4.15",
+    "@nestjs/typeorm": "^10.0.2",
+    "class-validator": "^0.14.1",
+    "mysql2": "^3.11.5",
+    "nest-keycloak-connect": "^1.10.1",
+    "pg": "^8.13.1",
+    "typeorm": "^0.3.20"
+  }
+}
